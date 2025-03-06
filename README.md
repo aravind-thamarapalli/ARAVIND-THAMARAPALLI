@@ -3,7 +3,7 @@
 <h3 align="center">Passionate Developer | Tech Enthusiast | Community Builder</h3>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+Native+Learner;Cybersecurity+Enthusiast;Hackathon+Participant;Tech+Community+Leader" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+Native+LearnerTech+Community+Leader" />
 </p>
 
 ---
